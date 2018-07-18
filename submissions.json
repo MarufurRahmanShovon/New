@@ -50,6 +50,23 @@
     ],
     "timestamp": "Sep/05/2021 21:32"
   },
+  "CF40524709": {
+    "contest_id": 701,
+    "language": "GNU C++17",
+    "path": "codeforces\\701\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cards",
+    "problem_url": "https://codeforces.com/contest/701/problem/A",
+    "submission_id": "CF40524709",
+    "submission_url": "https://codeforces.com/contest/701/submission/40524709",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/19/2018 01:19"
+  },
   "CF40558018": {
     "contest_id": 208,
     "language": "GNU C++17",
