@@ -50,6 +50,23 @@
     ],
     "timestamp": "Sep/05/2021 21:32"
   },
+  "CF41518419": {
+    "contest_id": 140,
+    "language": "GNU C++17",
+    "path": "codeforces\\140\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Year Table",
+    "problem_url": "https://codeforces.com/contest/140/problem/A",
+    "submission_id": "CF41518419",
+    "submission_url": "https://codeforces.com/contest/140/submission/41518419",
+    "tags": [
+      "geometry",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Aug/12/2018 13:29"
+  },
   "CF41519131": {
     "contest_id": 630,
     "language": "GNU C++17",
