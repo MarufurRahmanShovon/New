@@ -50,6 +50,22 @@
     ],
     "timestamp": "Sep/05/2021 21:32"
   },
+  "CF42712679": {
+    "contest_id": 579,
+    "language": "GNU C++17",
+    "path": "codeforces\\579\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Raising Bacteria",
+    "problem_url": "https://codeforces.com/contest/579/problem/A",
+    "submission_id": "CF42712679",
+    "submission_url": "https://codeforces.com/contest/579/submission/42712679",
+    "tags": [
+      "bitmasks",
+      "*1000"
+    ],
+    "timestamp": "Sep/09/2018 23:10"
+  },
   "CF42804889": {
     "contest_id": 762,
     "language": "GNU C++17",
