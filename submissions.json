@@ -50,6 +50,22 @@
     ],
     "timestamp": "Sep/05/2021 21:32"
   },
+  "CF43094514": {
+    "contest_id": 946,
+    "language": "GNU C++17",
+    "path": "codeforces\\946\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Partition",
+    "problem_url": "https://codeforces.com/contest/946/problem/A",
+    "submission_id": "CF43094514",
+    "submission_url": "https://codeforces.com/contest/946/submission/43094514",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Sep/20/2018 03:36"
+  },
   "CF43468306": {
     "contest_id": 230,
     "language": "GNU C++17",
