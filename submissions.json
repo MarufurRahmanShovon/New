@@ -50,6 +50,22 @@
     ],
     "timestamp": "Sep/05/2021 21:32"
   },
+  "CF48145193": {
+    "contest_id": 1099,
+    "language": "GNU C++17",
+    "path": "codeforces\\1099\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Snowball",
+    "problem_url": "https://codeforces.com/contest/1099/problem/A",
+    "submission_id": "CF48145193",
+    "submission_url": "https://codeforces.com/contest/1099/submission/48145193",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/09/2019 22:02"
+  },
   "CF49368153": {
     "contest_id": 41,
     "language": "GNU C++17",
