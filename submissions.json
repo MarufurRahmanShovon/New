@@ -50,6 +50,23 @@
     ],
     "timestamp": "Sep/05/2021 21:32"
   },
+  "CF51399776": {
+    "contest_id": 734,
+    "language": "GNU C++17",
+    "path": "codeforces\\734\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Anton and Danik",
+    "problem_url": "https://codeforces.com/contest/734/problem/A",
+    "submission_id": "CF51399776",
+    "submission_url": "https://codeforces.com/contest/734/submission/51399776",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/17/2019 12:41"
+  },
   "CF51845571": {
     "contest_id": 50,
     "language": "Java 8",
